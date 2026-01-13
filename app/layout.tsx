@@ -10,7 +10,7 @@ const plusJakarta = Plus_Jakarta_Sans({
 });
 
 export const metadata: Metadata = {
-  title: "UHS Ticket - Hiking Event Ticketing",
+  title: "UHS.Ticket - Hiking Event Ticketing",
   description:
     "Book your hiking adventure tickets. Group booking, QR e-tickets, and seamless event management.",
   keywords: ["hiking", "event", "ticket", "adventure", "outdoor", "booking"],

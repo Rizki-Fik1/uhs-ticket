@@ -85,7 +85,7 @@ export default function HomePage() {
       {/* Hero Section */}
       <section className="relative min-h-[90vh] flex items-center overflow-hidden">
         {/* Background */}
-        <div className="absolute inset-0 bg-gradient-to-br from-[var(--primary)] via-[var(--primary-light)] to-[var(--primary)]">
+        <div className="absolute inset-0 mt-8 bg-gradient-to-br from-[var(--primary)] via-[var(--primary-light)] to-[var(--primary)]">
           {/* Decorative elements */}
           <div className="absolute top-20 left-10 w-72 h-72 bg-[var(--accent)]/20 rounded-full blur-3xl" />
           <div className="absolute bottom-20 right-10 w-96 h-96 bg-white/5 rounded-full blur-3xl" />
@@ -346,7 +346,7 @@ export default function HomePage() {
             className="text-center mb-12"
           >
             <h2 className="text-3xl sm:text-4xl font-bold text-[var(--text-primary)] mb-4">
-              Kenapa <span className="text-[var(--accent)]">UHSTicket</span>?
+              Kenapa <span className="text-[var(--accent)]">UHS.Ticket</span>?
             </h2>
             <p className="text-[var(--text-secondary)] max-w-2xl mx-auto">
               Nikmati pengalaman booking yang modern dan hassle-free

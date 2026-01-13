@@ -182,7 +182,7 @@ export default function RegisterPage() {
               <span className="text-[var(--accent)]">Bersama Kami</span>
             </h1>
             <p className="text-lg text-white/70 max-w-md mb-8">
-              Ribuan pendaki sudah mempercayai UHSTicket untuk petualangan mereka.
+              Ribuan pendaki sudah mempercayai UHS.Ticket untuk petualangan mereka.
             </p>
 
             <div className="space-y-4">

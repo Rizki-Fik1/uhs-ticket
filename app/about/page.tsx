@@ -113,7 +113,7 @@ export default function AboutPage() {
                   <Building2 className="w-32 h-32 text-white/30" />
                 </div>
                 <div className="absolute bottom-0 left-0 right-0 p-8 bg-gradient-to-t from-black/50 to-transparent">
-                  <p className="text-white text-lg font-medium">UHS Ticket</p>
+                  <p className="text-white text-lg font-medium">UHS.Ticket</p>
                   <p className="text-white/80">Platform Tiket Hiking #1 Indonesia</p>
                 </div>
               </div>
